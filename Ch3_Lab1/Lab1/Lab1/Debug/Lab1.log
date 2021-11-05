@@ -1,0 +1,4 @@
+﻿  main.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 無法解析的外部符號 _main 在函式 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被參考
+C:\c_code\Ch3_Lab1\Lab1\Debug\Lab1.exe : fatal error LNK1120: 1 個無法解析的外部符號
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(720,5): error MSB6006: "link.exe" 以返回碼 1120 結束。
